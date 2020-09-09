@@ -8,8 +8,7 @@ public class MainTest {
 
 
         System.out.println("master 中修改了代码~~");
+
+        System.out.println("test branch update");
     }
-
-
-
 }
